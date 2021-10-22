@@ -39,7 +39,8 @@ const String DATA_GENERATE = "ExampleDataGenerate.exe";
 const String ANSWER = "ExampleAnswer.exe";
 
 
-int t, cnt;
+int t;
+int cnt = 0;
 
 String intToString(int temp)
 {
